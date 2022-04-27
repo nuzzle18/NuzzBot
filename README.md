@@ -41,7 +41,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WABOT-AQ ]
+[ INSTALLING NODEJS & NUZZBOT ]
 
 ```bash
 ubuntu
@@ -64,7 +64,7 @@ npm update
 
 ```bash
 git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+cd NuzzBot
 npm install
 npm update
 ```
