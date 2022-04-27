@@ -12,7 +12,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/nuzzle18/NuzzBot
 cd NuzzBot
 npm install
 npm update
@@ -47,7 +47,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/nuzzle18/NuzzBot
 cd NuzzBot
 npm install
 npm update
@@ -63,7 +63,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/nuzzle18/NuzzBot
 cd NuzzBot
 npm install
 npm update
@@ -97,11 +97,11 @@ Used for [heroku](https://heroku.com/) or scan through website
 ### `--db <json-server-url>`
 
 Use external db instead of local db, 
-Example Server `https://json-server.nurutomo.repl.co/`
+Example Server `https://json-server.nuzzle18.repl.co/`
 
-Code: `https://repl.it/@Nurutomo/json-server`
+Code: `https://repl.it/@nuzzle18/json-server`
 
-`node . --db 'https://json-server.nurutomo.repl.co/'`
+`node . --db 'https://json-server.nuzzle18.repl.co/'`
 
 The server should have like this specification
 
